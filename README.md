@@ -3,10 +3,11 @@
 <!--
 ![alt text](AugmentEverything/PosterFinalTimKim.jpg "Versitile Augmentation Poster")
 ![alt text](https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.jpg "Versitile Augmentation Poster")
+<img src ="https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.jpg"/>
 -->
 
 
-<img src ="https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.jpg"/>
+
 
 <img src ="https://cloud.githubusercontent.com/assets/17305067/21291529/403ef1a4-c4b1-11e6-82cf-5417ce654382.jpg"/>
 
