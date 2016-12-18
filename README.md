@@ -1,6 +1,6 @@
 
 
-testing
+
 ![alt text](https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.jpg "Versitile Augmentation Poster")
 
 <!--
