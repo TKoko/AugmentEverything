@@ -1,7 +1,7 @@
 
 
 
-![alt text](https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.JPG "Versitile Augmentation Poster")
+![alt text](https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.jpg "Versitile Augmentation Poster")
 
 <!--
 ## Welcome to GitHub Pages
