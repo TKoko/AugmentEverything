@@ -1,10 +1,15 @@
 
 
-
+<!--
 ![alt text](AugmentEverything/PosterFinalTimKim.jpg "Versitile Augmentation Poster")
-
-
 ![alt text](https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.jpg "Versitile Augmentation Poster")
+-->
+
+
+<img src ="https://github.com/TKoko/AugmentEverything/blob/master/PosterFinalTimKim.jpg"/>
+
+<img src ="AugmentEverything/PosterFinalTimKim.jpg"/>
+
 <!--
 ## Welcome to GitHub Pages
 
